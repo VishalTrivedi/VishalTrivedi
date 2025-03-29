@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # More about VishalTrivedi (Vishal Trivedi)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VishalTrivedi.VishalTrivedi)
-
 ## Social Links
 
 - 🖥 [GitHub](https://github.com/VishalTrivedi)
