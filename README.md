@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 - Visual Studio for C# / .NET Core
 - Visual Studio Code
+- Visual Studio Extensibility
 - .NET Core
 - Azure IaaS, PaaS
 - Machine Learning and AI
