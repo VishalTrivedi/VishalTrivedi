@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 ## Languages
 
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true"></code>
@@ -48,16 +48,12 @@ Here are some ideas to get you started:
 - Microsoft Certified: Azure Fundamentals 
 - AWS Certified Cloud Practitioner 
 - ICAgile Certified Professional 
-- MS: Programming in HTML5 with JavaScript and CSS3 Specialist 
-- MCPD: Web Developer 4 
-- MCTS: .Net Framework 4, Web Applications 
-- MCTS: .Net Framework 4, Data Access
 
 ## Azure Services
 
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
-- [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/)
-- [Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/)
+- [Azire App Service](https://azure.microsoft.com/en-us/products/app-service/)
+- [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id/)
 - [Azure SQL](https://azure.microsoft.com/en-us/services/azure-sql/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalTrivedi&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalTrivedi&count_private=true&show_icons=true&include_all_commits=true)
