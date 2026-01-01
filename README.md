@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 # More about VishalTrivedi (Vishal Trivedi)
 
+## Projects
+
+- [Centralize Versions (Visual Studio Extension)](https://marketplace.visualstudio.com/items?itemName=VishalTrivedi.CentralizedVersionManagement)
+
 ## Social Links
 
 - 🖥 [GitHub](https://github.com/VishalTrivedi)
